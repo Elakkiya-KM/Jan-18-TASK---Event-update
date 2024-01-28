@@ -5,4 +5,4 @@
 
 # OUTPUT - Refer Event update.png Image
 
-### Front-end Deployed URL ()
+### Front-end Deployed URL (https://elakkiya-jan18task-eventupdatepage.netlify.app)
